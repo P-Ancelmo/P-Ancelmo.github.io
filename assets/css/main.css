@@ -1851,9 +1851,9 @@ input, select, textarea {
 				display: block;
 				position: absolute;
 				top: 0;
-				width: 50%;
+				width: 366px;
 				height: 100%;
-				background: #152E33;
+				background-image: url("../../images/bg.jpg");
 				overflow: hidden;
 			}
 
